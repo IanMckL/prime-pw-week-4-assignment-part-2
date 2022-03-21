@@ -3,6 +3,7 @@ header{
     border-radius: 30px;
     text-align: center;
     padding: 2.5%;
+    font-family: "Comic Sans MS", sans-serif;
 }
 html{
     background-color:cornsilk;
@@ -10,4 +11,24 @@ html{
 
 .info{
     background-color: powderblue;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+    padding-bottom: 10%;
+    border-radius: 30px;
+    max-height: fit-content;
+}
+
+img{
+    display: block;
+    max-width: 20%;
+    height: auto;
+    margin: auto;
+    border-radius: 30px;
+    
+}
+
+h2{
+    padding: 5%;
+    font-family: "Comic Sans MS", sans-serif; 
+    text-align: center;
 }
