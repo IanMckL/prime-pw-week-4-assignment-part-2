@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(197, 192, 250);
+    border-radius: 30px;
+    text-align: center;
+    padding: 2.5%;
+}
+html{
+    background-color:cornsilk;
+}
+
+.info{
+    background-color: powderblue;
+}
