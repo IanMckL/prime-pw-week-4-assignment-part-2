@@ -20,8 +20,8 @@ html{
 
 img{
     display: block;
-    -webkit-mask-image: url(/CSS/Mask.svg);
-    mask-image: url(/CSS/Mask.svg);
+    -webkit-mask-image: url(CSS/maskme.svg);
+    mask-image: url(CSS/maskme.svg);
     mask-type: alpha;
     max-width: 20%;
     height: auto;
