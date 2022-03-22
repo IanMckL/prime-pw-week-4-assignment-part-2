@@ -15,8 +15,7 @@ html{
     text-align: center;
     padding-bottom: 10%;
     border-radius: 30px;
-    max-height:fit-content;
-    min-height: fit-content;
+    max-height: min-content;
 }
 
 img{
