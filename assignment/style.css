@@ -20,12 +20,15 @@ html{
 
 img{
     display: block;
+    -webkit-mask-image: url(Mask.svg);
+    mask-image: url(Mask.svg);
+    mask-type: alpha;
     max-width: 20%;
     height: auto;
     margin: auto;
     border-radius: 30px;
-    
 }
+
 
 h2{
     padding: 5%;
