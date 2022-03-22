@@ -23,6 +23,7 @@ img{
     -webkit-mask-image: url(Mask.svg);
     mask-image: url(Mask.svg);
     mask-type: alpha;
+    -webkit-mask-size: auto;
     max-width: 20%;
     height: auto;
     margin: auto;
